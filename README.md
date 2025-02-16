@@ -1,5 +1,5 @@
 
-#🌤Weather Email Scraper
+#Weather Email Scraper
 Uma aplicação automatizada em Python que utiliza Selenium para buscar a previsão do tempo no tempo.com e envia as informações diretamente para o seu e-mail. Ideal para quem deseja receber atualizações diárias sobre as condições meteorológicas de uma cidade específica, sem esforço manual.
 
 #🚀 Funcionalidades:
